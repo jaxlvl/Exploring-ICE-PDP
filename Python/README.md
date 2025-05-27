@@ -20,7 +20,7 @@ Esta carpeta contiene los scripts de Python desarrollados para el análisis prog
     * Está configurado para cargar el dataset `White-wine-quality.csv` desde una ruta local relativa (`../DataBases/White-wine-quality.csv`), asumiendo que el script se ejecuta desde la carpeta `Python-Script/` y la carpeta `DataBases/` está en el nivel superior del repositorio.
     * **Cómo usarlo**: Ejecútalo en un entorno Python local que tenga instaladas las librerías necesarias (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn).
         ```bash
-        python ICE-PDP-demostration.py
+        python3 ICE-PDP-demostration.py
         ```
 
 ## Dependencias Principales
