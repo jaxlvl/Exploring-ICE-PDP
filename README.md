@@ -59,7 +59,7 @@ Este repositorio contiene el informe de prácticas, los datasets utilizados, los
 #### Opción A: Notebook en Google Colab (`ICE-PDP-demostration.ipynb`)
 1.  Accede a Google Colab.
 2.  Selecciona `Archivo > Subir cuaderno...` y sube el archivo `Python-Script/ICE-PDP-demostration.ipynb`.
-3.  Alternativamente, si el repositorio es público, puedes abrirlo directamente en Colab desde GitHub (`Archivo > Abrir cuaderno > GitHub` y pegando la URL del repositorio o del archivo `.ipynb`).
+3.  Alternativamente puedes abrirlo directamente en Colab desde GitHub (`Archivo > Abrir cuaderno > GitHub` y pegando la URL del repositorio o del archivo `.ipynb`).
 4.  El notebook está configurado para cargar el dataset `White-wine-quality.csv` directamente desde la URL raw del archivo en este repositorio de GitHub. Solo necesitas ejecutar las celdas en orden.
 
 #### Opción B: Script Local (`ICE-PDP-demostration.py`)
