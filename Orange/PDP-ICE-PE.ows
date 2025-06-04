@@ -208,16 +208,17 @@ lIwGaGVhbHRolEsChpSMCGFic2VuY2VzlEsChpSMAkcxlEsChpSMAkcylEsChpR0lGgzKWg0jAJH
 M5RLAoaUhZR1YmV1Lg==
 </properties>
 		<properties node_id="6" format="literal">{'auto_apply': True, 'binary_trees': True, 'controlAreaVisible': True, 'learner_name': '', 'limit_depth': True, 'limit_majority': True, 'limit_min_internal': True, 'limit_min_leaf': True, 'max_depth': 100, 'min_internal': 5, 'min_leaf': 3, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x01\xa1\x00\x00\x01\x1a\x00\x00\x02\xfb\x00\x00\x02s\x00\x00\x03\x13\x00\x00\x01d\x00\x00\x04m\x00\x00\x02\xa1\x00\x00\x00\x00\x02\x00\x00\x00\x07\x80\x00\x00\x01\xa1\x00\x00\x016\x00\x00\x02\xfb\x00\x00\x02s', 'sufficient_majority': 95, '__version__': 1}</properties>
-		<properties node_id="7" format="pickle">gASVBAIAAAAAAAB9lCiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBFsaW5lX3dpZHRoX21ldGhvZJRL
+		<properties node_id="7" format="pickle">gASVMgIAAAAAAAB9lCiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBFsaW5lX3dpZHRoX21ldGhvZJRL
 AowObWF4X25vZGVfd2lkdGiUS1GMDm1heF90cmVlX2RlcHRolEsDjBFyZWdyZXNzaW9uX2NvbG9y
 c5RLAIwTc2F2ZWRXaWRnZXRHZW9tZXRyeZRDQgHZ0MsAAwAAAAAAAAAAABkAAAd/AAAENwAAAAAA
 AAA1AAAHfwAABDcAAAAAAAAAAAeAAAAAAAAAADUAAAd/AAAEN5SMEXNob3dfaW50ZXJtZWRpYXRl
 lImMBHpvb22USwGMC19fdmVyc2lvbl9flEsBjBBjb250ZXh0X3NldHRpbmdzlF2UKIwVb3Jhbmdl
 d2lkZ2V0LnNldHRpbmdzlIwHQ29udGV4dJSTlCmBlH2UKIwGdmFsdWVzlH2UKIwSdGFyZ2V0X2Ns
-YXNzX2luZGV4lEsAaApLAXWMB2NsYXNzZXOUTnViaA8pgZR9lChoEn2UKGgUSwBoCksBdWgVjAZm
-cnVpdHOUjAdzZWFmb29klIwKdmVnZXRhYmxlc5SHlHViaA8pgZR9lChoEn2UKIwSdGFyZ2V0X2Ns
-YXNzX2luZGV4lEsAaApLAXVoFU51YmgPKYGUfZQoaBJ9lCiMEnRhcmdldF9jbGFzc19pbmRleJRL
-AGgKSwF1aBVOdWJldS4=
+YXNzX2luZGV4lEsAaApLAXWMB2NsYXNzZXOUTnViaA8pgZR9lChoEn2UKIwSdGFyZ2V0X2NsYXNz
+X2luZGV4lEsAaApLAXVoFU51YmgPKYGUfZQoaBJ9lChoGUsAaApLAXVoFYwGZnJ1aXRzlIwHc2Vh
+Zm9vZJSMCnZlZ2V0YWJsZXOUh5R1YmgPKYGUfZQoaBJ9lCiMEnRhcmdldF9jbGFzc19pbmRleJRL
+AGgKSwF1aBVOdWJoDymBlH2UKGgSfZQojBJ0YXJnZXRfY2xhc3NfaW5kZXiUSwBoCksBdWgVTnVi
+ZXUu
 </properties>
 		<properties node_id="8" format="pickle">gASV3gkAAAAAAAB9lCiMCWF1dG9fc2VuZJSIjBJjb250cm9sQXJlYVZpc2libGWUiIwMbl9hdHRy
 aWJ1dGVzlEsNjAluX3JlcGVhdHOUSwmME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAA
